@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=THESHREY&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Your Custom Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=THE%20MAGIC%20YOU%20ARE%20LOOKING%20FOR%20IS%20IN%20THE%20WORK%20YOU'RE%20AVOIDING&theme=tokyonight)
+![THE MAGIC YOU ARE LOOKING FOR IS IN THE WORK YOU'RE AVOIDING](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=THE%20MAGIC%20YOU%20ARE%20LOOKING%20FOR%20IS%20IN%20THE%20WORK%20YOU'RE%20AVOIDING&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=THESHREY&icon=2&color=3)](https://visitcount.itsvg.in)
