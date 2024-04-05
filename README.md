@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  HireMyTrip<br>🤝 I’m looking for help with Analysis, Backend, Robotics(exoskeleton)<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Robotics(exoskeleton), Analysis<br>⚡ Fun fact "EVEN AFTER THE DEATH I'M THE HERO"
+🔭 I’m currently working at  HireMyTrip<br>🤝 I’m looking for help with Machine Learning, Analysis, Backend, Robotics(exoskeleton)<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Robotics(exoskeleton), Analysis<br>⚡ Fun fact "EVEN AFTER THE DEATH I'M THE HERO"
 
 
 ## 🌐 Socials:
